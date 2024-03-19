@@ -1,6 +1,6 @@
 # End-to-End-Nutritionist-Generative-AI-DoCtor-
 
-# ATS Tracking System
+# Health track System
 
 This is a Streamlit web application designed to analyze images of food items and provide information about their calorie content using Google's Generative AI.
 
